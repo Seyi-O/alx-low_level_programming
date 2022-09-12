@@ -1,6 +1,16 @@
 #include <stdio.h>
-#include <main.c>
-int put_4()
+
+/**
+ * put_4- Task to be run
+ *
+ * Return: Always 0 (Success)
+ */
+
+
+int main()
 {
-	puts("Programming is like building a multilingual puzzle\n");
+	puts("Programming is like building a multilingual puzzle");
+
+	getchar();
+	return (0);
 }
